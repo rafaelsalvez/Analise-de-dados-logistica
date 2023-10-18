@@ -28,7 +28,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 python analise_logistica.py
 ```
 O código será executado e fornecerá saída com base nos dados fornecidos.
-=
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto. Certifique-se de seguir as diretrizes de contribuição ao fazer alterações.
 
 ## Licença
